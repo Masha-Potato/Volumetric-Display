@@ -14,3 +14,6 @@ Finally digitizing the cross-sections for compression: <img width="560" height="
 
 
 3D File for Chassis/Motor Mount
+
+Preview:
+<img width="643" height="646" alt="image" src="https://github.com/user-attachments/assets/561889ab-3104-4d45-8e01-34392c2a58d6" />
